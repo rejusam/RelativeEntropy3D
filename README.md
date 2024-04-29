@@ -9,7 +9,7 @@ $$
 Now for
 $$
 \alpha = \begin{bmatrix} x \\ y \end{bmatrix} \in \mathbb{R}^2
-$$,
+$$
 
 define:
 
