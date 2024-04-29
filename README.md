@@ -6,7 +6,12 @@ $$
 V_{\lambda,r} = \begin{bmatrix} (1-\lambda) + \lambda e^{-2r} & 0 \\ 0 & (1-\lambda) + \lambda e^{2r} \end{bmatrix}
 $$
 
-Now for $\alpha = \begin{bmatrix} x \\ y \end{bmatrix} \in \mathbb{R}^2 $, define:
+Now for
+$$
+\alpha = \begin{bmatrix} x \\ y \end{bmatrix} \in \mathbb{R}^2
+$$,
+
+define:
 
 $$
 \delta(\lambda_1,\lambda_2, \alpha) = (\sqrt{\lambda_1} - \sqrt{\lambda_2}) \alpha
