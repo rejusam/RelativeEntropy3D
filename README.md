@@ -8,7 +8,7 @@ $$
 
 Now for
 $$
-\alpha = \begin{bmatrix} x \\ y \end{bmatrix} \in \mathbb{R}^2
+\alpha = \begin{bmatrix} x \\ y \end{bmatrix} \in R^2
 $$
 
 define:
