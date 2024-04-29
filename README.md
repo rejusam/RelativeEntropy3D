@@ -27,7 +27,7 @@ $$
 Then define:
 
 $$
-\Sigma\left(V_{\lambda_1,r}, V_{\lambda_2,r}, \delta\right) = \frac{\ln \operatorname{det}\left(V_{\lambda_2,r}+\frac{i}{2}J\right) + \operatorname{Tr}\left(V_{\lambda_1,r} G_{\lambda_2}\right) + \delta(\lambda_1,\lambda_2, \alpha)^T G_{\lambda_2} \delta(\lambda_1,\lambda_2, \alpha)}{2 \ln 2}.
+\Sigma\left(V_{\lambda_1,r}, V_{\lambda_2,r}, \delta\right) = \frac{\ln det \left(V_{\lambda_2,r}+\frac{i}{2}J\right) + Tr\left(V_{\lambda_1,r} G_{\lambda_2}\right) + \delta(\lambda_1,\lambda_2, \alpha)^T G_{\lambda_2} \delta(\lambda_1,\lambda_2, \alpha)}{2 \ln 2}.
 $$
 
 We can then define:
